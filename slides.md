@@ -15,14 +15,15 @@
 
 ---
 
-## Styles
+## The philosipher
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
-* normal
-* **bold**
-* *italics*
-* `code`
+* Born in the 1865
+* Wrote books like: *Why the flies stay* and *What one jump can change?* 
+* Died of getting eaten by *corcs the crocing*
+
+<img width="445" alt="pain" src="https://user-images.githubusercontent.com/74296334/207543455-a49e0784-9de2-4ea2-80a7-33031f121d02.PNG">
 
 --
 
