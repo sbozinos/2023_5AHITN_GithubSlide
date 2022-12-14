@@ -11,8 +11,7 @@
 > In the middle: Franziskus
 > On the left: Hans
 
-<img src= "(https://user-images.githubusercontent.com/74296334/207542365-61853eec-853a-40da-913d-78e0a6874a39.png)" width="100" height="60">
-
+<img src="https://user-images.githubusercontent.com/74296334/207542365-61853eec-853a-40da-913d-78e0a6874a39.png" height="200" width="400"/>
 ---
 
 ## The philosipher
