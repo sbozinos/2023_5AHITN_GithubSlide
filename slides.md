@@ -1,15 +1,17 @@
-# Demo
+# This is where the MAGIC HAPPENS !! 🧙‍♂️
 
 --
 
-## Typography
-
+## Magician Frogs 
 ---
 
-## Quotes
+## Watch out might lose all your hair
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+> On the right: Johann der 2
+> In the middle: Franziskus
+> On the left: Hans
+
+![logo](https://user-images.githubusercontent.com/74296334/207542365-61853eec-853a-40da-913d-78e0a6874a39.png)
 
 ---
 
