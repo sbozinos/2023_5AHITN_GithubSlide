@@ -16,8 +16,6 @@
 
 ## The philosipher
 
-You can freely mix **bold**, *italics*, `code` and normal styles
-
 * Born in the 1865
 * Wrote books like: *Why the flies stay* and *What one jump can change?* 
 * Died of getting eaten by *corcs the crocing*
@@ -26,30 +24,23 @@ You can freely mix **bold**, *italics*, `code` and normal styles
 
 --
 
-## Lists
+## ADS
 
 ---
 
-## Unordered Lists
+## WHY TO BUY THIS PRODUCT
 
-* a
-* b
-  * 1
-  * 2
-    * I
-* c
+* Taste is like **MAGIC**
+* Texture a but chewy but alright!
+  * mmmhh
+  * mmhh 2
 
 ---
 
-## Ordered Lists
+## What is the product
 
-automatic numbering
-
-1. a
-1. b
-    1. 1
-    1. 2
-1. c
+MHHH YESS
+![fisshhh](https://user-images.githubusercontent.com/74296334/207547250-154031ae-85f9-497c-b1d4-b67c0d01eb65.png)
 
 ---
 
